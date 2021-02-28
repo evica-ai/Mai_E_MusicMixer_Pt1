@@ -6,14 +6,14 @@ Drag and drop different sound samples to make your own musical beat of the day! 
 
 <h2>Collaborators:</h2>
 <ul>
-- Eugene Na @Gene3829
-- Evica Mai @evica-ai
+<li>Eugene Na @Gene3829</li>
+<li>Evica Mai @evica-ai</li>
 </ul>
 
 -----------------------------------------------------------
 <h2>Built with:</h2>
 <ul>
-- Basic css and html: flexbox layout and simple CSS3 animation and transitions
-- Javascript for drag and drop functions accompanied with play selected audio function.
-- Includes svg icons and images created from Adobe Illustrator 2021 and unsplash (stock image)
+<li>Basic css and html: flexbox layout and simple CSS3 animation and transitions</li>
+<li>Javascript for drag and drop functions accompanied with play selected audio function.</li>
+<li>Includes svg icons and images created from Adobe Illustrator 2021 and unsplash (stock image)</li>
 </ul>
