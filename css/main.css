@@ -2,7 +2,7 @@
 /* CSS Document */
 body {
 	background-repeat: repeat;
-	background-color: #fff;
+	background-color: #FACCA3;
 	color: #FFF;
 	font-family: 'Luckiest Guy', sans-serif;
 	font-size: 16px;
@@ -29,7 +29,7 @@ body {
 .sound-icons, .icons-dz {
 	height: 50px;
 	display: inline-block;
-	border: 5px solid #77bb9e;
+	border: 5px solid #F397B7;
 	background-color: #000;
 }
 
@@ -91,7 +91,7 @@ body {
 	height: 71%;
 	margin: 10px;
 	border-radius: 19px;
-	border: 2px dashed #77bb9e;
+	border: 2px dashed #F397B7;
 	position: relative;
 }
 
