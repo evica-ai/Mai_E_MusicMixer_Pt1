@@ -1,5 +1,5 @@
 <p align="centre">
-<img src="images/casette_readMe.jpg" width="80% style="max-width:100%;">
+<img src="images/casette_readMe.jpg" width="80%" length="50%" style="max-width:100%;">
 </p>
 <h1>Good Life Music Mixer!</h1>
 Music is something that we all enjoy in the course of our lives. It is the sound brought together by a variety of instruments and/or voices harmonizing together. 
