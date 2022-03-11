@@ -5,7 +5,8 @@
 	// put variables (connections to the web page / DOM) at the top
 	// const -> something that will never change / can't be redefined
 	const 	dropZoneContainer = document.querySelector(".icons-dz")
-			dragZone = document.querySelector(".sound-icons"),
+			dragZone = document.querySelector(".sound-icons-left"),
+			dragZone = document.querySelector(".sound-icons-right"),
 			dragImages = document.querySelectorAll(".icon-image"),
 			dropZones = document.querySelectorAll(".drop-zone");
 
