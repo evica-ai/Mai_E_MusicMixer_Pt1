@@ -26,14 +26,25 @@ body {
 	height: 100%;
 }
 
-.sound-icons, .icons-dz {
+.sound-icons-right, .sound-icons-left, .icons-dz {
 	height: 50px;
 	display: inline-block;
 	border: 5px solid #F397B7;
 	background-color: #000;
 }
 
-.sound-icons {
+.sound-icons-right {
+	display: block;
+	height: 682px;
+	width: 140px;
+	opacity: 0.9;
+ 	border-radius: 30px;
+	margin-top: 30px;
+	padding-top: 26px;
+	margin-left: 625px;
+}
+
+.sound-icons-left {
 	display: block;
 	height: 682px;
 	width: 140px;
@@ -87,8 +98,8 @@ body {
 
 /* This sets up drop zones */
 .drop-zone {
-	width: 45%;
-	height: 71%;
+	width: 50%;
+	height: 70%;
 	margin: 10px;
 	border-radius: 19px;
 	border: 2px dashed #F397B7;
